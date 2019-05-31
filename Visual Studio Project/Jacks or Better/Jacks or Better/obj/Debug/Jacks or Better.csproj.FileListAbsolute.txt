@@ -1,0 +1,7 @@
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\bin\Debug\Jacks or Better.exe.config
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\bin\Debug\Jacks or Better.exe
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\bin\Debug\Jacks or Better.pdb
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\obj\Debug\Jacks or Better.csprojAssemblyReference.cache
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\obj\Debug\Jacks or Better.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\obj\Debug\Jacks or Better.exe
+C:\Users\Aurimas\source\repos\Jacks or Better\Jacks or Better\obj\Debug\Jacks or Better.pdb
